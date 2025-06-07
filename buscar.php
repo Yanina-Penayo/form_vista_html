@@ -1,4 +1,5 @@
 <?php
+#no me deja pushear dice que no tengo permisos. esta hecho el commit
 $archivo = __DIR__ . '/datos.txt';
 
 if (!file_exists($archivo)) {
